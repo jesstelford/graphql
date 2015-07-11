@@ -84,4 +84,4 @@ and server implementations -- spanning both organizations and platforms -- that
 has yet to be built. We look forward to working with the community
 in order to do that.
 
-Next: [Language](Section%202%20--%20Language.md)
+Next: [Language](Section 2 -- Language.md)
